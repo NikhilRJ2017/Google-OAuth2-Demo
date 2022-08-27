@@ -1,5 +1,7 @@
 # Welcome to Google OAuth2 Demo!
 
+This project is a simple demo of google oauth2 using passport js. User logs in with Gmail, can logout and also go to the protected route which shows user information
+
 ## Steps to install locally
 
 Before installing npm modules and run the project, create '.env' file to the project with following entries: 
