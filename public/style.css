@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    background-color: beige;
+} 
+
+body{
+    text-align: center;
+}
+
+div{
+    margin: 10px 0px;
+}
+
+h1{
+    margin: 10px 0px;
+}
