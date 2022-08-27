@@ -1,6 +1,6 @@
 # Welcome to Google OAuth2 Demo!
 
-# Steps to install locally
+## Steps to install locally
 
 Before installing npm modules and run the project, create '.env' file to the project with following entries: 
 
